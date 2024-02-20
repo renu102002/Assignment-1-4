@@ -4,7 +4,7 @@
 using namespace std;
 
 // Function to generate a list of prime numbers up to a given limit using the Sieve of Eratosthenes algorithm
-//dynamic of list
+//list(dynamic)
 vector<int> generatePrimes(int limit) {
     vector<bool> isPrime(limit + 1, true);
     vector<int> primes;

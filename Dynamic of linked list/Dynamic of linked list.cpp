@@ -70,6 +70,7 @@ public:
     }
 
     // Function to display the elements of the linked list
+    //dynamic of linked list
     void display() {
         Node* temp = head;
 

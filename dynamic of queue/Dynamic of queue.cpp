@@ -13,7 +13,7 @@ public:
     }
 
     // Function to display the entire queue
-    //dynamic of queue
+    //queue(dynamic)
     void display() {
         if (!myQueue.empty()) {
             std::cout << "Queue Elements: ";

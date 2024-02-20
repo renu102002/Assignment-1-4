@@ -59,6 +59,7 @@ int main() {
     }
 
     // Perform in-order traversal and print the values
+    //dynmaic of binary tree
     std::cout << "In-order traversal: ";
     inOrderTraversal(root);
     std::cout << std::endl;
