@@ -16,7 +16,7 @@ int main() {
     }
 
     // Display the elements of the array
-    //dynamic of array
+    //array(dynamic)
     std::cout << "Dynamic 1D Array: ";
     for (int i = 0; i < size; ++i) {
         std::cout << dynamicArray[i] << " ";

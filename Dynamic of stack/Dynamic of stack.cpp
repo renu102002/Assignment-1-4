@@ -5,7 +5,7 @@ private:
     static const int MAX_SIZE = 100;
     int arr[MAX_SIZE];
     int top;
-    //dynamic of stack
+    //stack(dynamic)
 
 public:
     Stack() : top(-1) {}
